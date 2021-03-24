@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/draughts-js/static/css/main.4442b710.chunk.css",
+    "main.js": "/draughts-js/static/js/main.27ec55c3.chunk.js",
+    "main.js.map": "/draughts-js/static/js/main.27ec55c3.chunk.js.map",
+    "runtime-main.js": "/draughts-js/static/js/runtime-main.ce210edc.js",
+    "runtime-main.js.map": "/draughts-js/static/js/runtime-main.ce210edc.js.map",
+    "static/js/2.a9e71a06.chunk.js": "/draughts-js/static/js/2.a9e71a06.chunk.js",
+    "static/js/2.a9e71a06.chunk.js.map": "/draughts-js/static/js/2.a9e71a06.chunk.js.map",
+    "static/js/3.197bbb7e.chunk.js": "/draughts-js/static/js/3.197bbb7e.chunk.js",
+    "static/js/3.197bbb7e.chunk.js.map": "/draughts-js/static/js/3.197bbb7e.chunk.js.map",
+    "index.html": "/draughts-js/index.html",
+    "static/css/main.4442b710.chunk.css.map": "/draughts-js/static/css/main.4442b710.chunk.css.map",
+    "static/js/2.a9e71a06.chunk.js.LICENSE.txt": "/draughts-js/static/js/2.a9e71a06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce210edc.js",
+    "static/js/2.a9e71a06.chunk.js",
+    "static/css/main.4442b710.chunk.css",
+    "static/js/main.27ec55c3.chunk.js"
+  ]
+}
