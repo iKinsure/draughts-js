@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/draughts-js/static/css/main.8ed6efbc.chunk.css",
-    "main.js": "/draughts-js/static/js/main.696295de.chunk.js",
-    "main.js.map": "/draughts-js/static/js/main.696295de.chunk.js.map",
+    "main.css": "/draughts-js/static/css/main.25593102.chunk.css",
+    "main.js": "/draughts-js/static/js/main.81bce3ff.chunk.js",
+    "main.js.map": "/draughts-js/static/js/main.81bce3ff.chunk.js.map",
     "runtime-main.js": "/draughts-js/static/js/runtime-main.74c2382e.js",
     "runtime-main.js.map": "/draughts-js/static/js/runtime-main.74c2382e.js.map",
     "static/js/2.26c88d26.chunk.js": "/draughts-js/static/js/2.26c88d26.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e90fb5d9.chunk.js": "/draughts-js/static/js/3.e90fb5d9.chunk.js",
     "static/js/3.e90fb5d9.chunk.js.map": "/draughts-js/static/js/3.e90fb5d9.chunk.js.map",
     "index.html": "/draughts-js/index.html",
-    "static/css/main.8ed6efbc.chunk.css.map": "/draughts-js/static/css/main.8ed6efbc.chunk.css.map",
+    "static/css/main.25593102.chunk.css.map": "/draughts-js/static/css/main.25593102.chunk.css.map",
     "static/js/2.26c88d26.chunk.js.LICENSE.txt": "/draughts-js/static/js/2.26c88d26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.74c2382e.js",
     "static/js/2.26c88d26.chunk.js",
-    "static/css/main.8ed6efbc.chunk.css",
-    "static/js/main.696295de.chunk.js"
+    "static/css/main.25593102.chunk.css",
+    "static/js/main.81bce3ff.chunk.js"
   ]
 }
